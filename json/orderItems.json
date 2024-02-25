@@ -1,0 +1,12 @@
+{
+    "id": 1,
+    "product_quantity_type": 1,
+    "product_name": "tomato",
+    "product_price": 10.0,
+    "product_quantity": 1,
+    "product_quantity_title": "kg",
+    "weight": "",
+    "product_image": "https://mr-mart.s3.amazonaws.com/static/mart/images/tomato.png",
+    "store_id": 1,
+    "order_id": 35
+  }

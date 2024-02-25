@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "582300905573",
+    "project_id": "finsandslicer",
+    "storage_bucket": "finsandslicer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582300905573:android:ec0074716516900725d68c",
+        "android_client_info": {
+          "package_name": "com.fins.fins_user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "582300905573-6vrb1gqd566177633r160r7naqq2o3k3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fins.fins_user",
+            "certificate_hash": "1b0a605ed1cc209fcc44f7461a6ff23d7cf1eb18"
+          }
+        },
+        {
+          "client_id": "582300905573-ob3k16ib1fd2v7uhrr0d2q3bckijo6rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4-XJn-_xr_n2DEhT7zZ5DuR3JWdSi62k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "582300905573-ob3k16ib1fd2v7uhrr0d2q3bckijo6rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

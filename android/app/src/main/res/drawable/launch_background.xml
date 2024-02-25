@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Modify this file to customize your launch splash screen -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/splash_color" />
+    <item
+        android:width="300dp"
+        android:height="300dp"
+        android:drawable="@mipmap/logo"
+        android:gravity="center" />
+    <item
+        android:width="130dp"
+        android:height="45dp"
+        android:left="20dp"
+        android:right="20dp"
+        android:top="20dp"
+        android:bottom="20dp"
+
+        android:drawable="@mipmap/seclogo"
+        android:gravity="center_horizontal | bottom" />
+
+
+</layer-list>

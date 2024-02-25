@@ -1,0 +1,11 @@
+{
+    "id": 38,
+    "store_name": "d-mart",
+    "store_type": 1,
+    "store_place": "Ananthapur",
+    "store_id": 1,
+    "store_logo": "https://mr-mart.s3.amazonaws.com/static/mart/images/dmart.png",
+    "numberOfItems": 1,
+    "total": 10,
+    "store_category": true
+  }

@@ -1,0 +1,17 @@
+{
+    "id": 1,
+    "product_quantity_title": "gms",
+    "price": 1000.0,
+    "product": "$productInfo",
+    "weight": 1.0,
+    "status_id": 1,
+    "discount": 10,
+    "without_discount": 10.0,
+    "selected_quantity": 0,
+    "hasChildren": false,
+    "store_id": 5,
+    "category_id": 85,
+    "category_name": "Skin & hair care",
+    "store_name": "vinnarasu st",
+    "open_status": true
+  }

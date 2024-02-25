@@ -1,0 +1,7 @@
+{
+    "id": 1,
+    "name": "Tomato",
+    "description": "tomato is good for health",
+    "product_image_ids": "$[]productImage",
+    "product_type": 1
+  }
