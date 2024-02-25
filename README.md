@@ -1,3 +1,7 @@
+To run flutter project:
+  flutter pub get 
+  flutter run or use andorid studio or any editor.
+
 # ecommerce app
 
 A new Flutter project.
