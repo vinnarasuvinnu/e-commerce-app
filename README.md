@@ -1,4 +1,4 @@
-# fins_user
+# ecommerce app
 
 A new Flutter project.
 
